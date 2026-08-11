@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=
 caio12013marcelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio12013marcelo&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -18,7 +18,7 @@ caio12013marcelo&show_icons=true&theme=tokyonight&include_all_commits=true&count
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=caio12013marcelo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -26,7 +26,7 @@ caio12013marcelo&show_icons=true&theme=tokyonight&include_all_commits=true&count
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caio12013marcelo&theme=tokyo-night"/>
 
 </div>
 
