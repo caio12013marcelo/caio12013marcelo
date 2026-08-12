@@ -19,27 +19,6 @@ Olá! Eu sou **Caio**, apaixonado por tecnologia e desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio12013marcelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio12013marcelo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -56,28 +35,6 @@ Olá! Eu sou **Caio**, apaixonado por tecnologia e desenvolvimento de software.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caio12013marcelo&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/caio12013marcelo/caio12013marcelo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="https://github.com/caio12013marcelo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
