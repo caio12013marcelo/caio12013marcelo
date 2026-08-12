@@ -47,3 +47,5 @@ Olá! Eu sou **Caio**, apaixonado por tecnologia e desenvolvimento de software.
 <img src="https://komarev.com/ghpvc/?username=caio12013marcelo&color=blueviolet&style=for-the-badge&label=VISITAS"/>
 
 </div>
+
+![snake gif](https://github.com/caio12013marcelo/caio12013marcelo/blob/output/github-contribution-grid-snake.svg)
