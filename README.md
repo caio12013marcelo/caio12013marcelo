@@ -48,4 +48,4 @@ Olá! Eu sou **Caio**, apaixonado por tecnologia e desenvolvimento de software.
 
 </div>
 
-![snake gif](https://github.com/caio12013marcelo/caio12013marcelo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/caio12013marcelo/blob/output/github-contribution-grid-snake.svg)
