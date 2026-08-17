@@ -20,16 +20,6 @@ Olá! Eu sou **Caio**, apaixonado por tecnologia e desenvolvimento de software.
 ---
 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=caio12013marcelo&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📈 Minha atividade
 
 <div align="center">
@@ -48,4 +38,4 @@ Olá! Eu sou **Caio**, apaixonado por tecnologia e desenvolvimento de software.
 
 </div>
 
-![snake gif](https://github.com/caio12013marcelo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/caio12013marcelo/ava-senai/blob/output/github-contribution-grid-snake.svg)
